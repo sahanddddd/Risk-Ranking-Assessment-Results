@@ -13,6 +13,9 @@ The code can be broken down into the following sections:
 - Plotting the results: The code generates two plots using ggplot2 - one with error bars and one without. These plots display the relationships between outbreak impact (C), risk trajectory and epidemic potential (A and B), and preparedness (D).
 
 
+<b> Link to Assessment Survey Questions</b>
+https://ee.humanitarianresponse.info/x/wYS4JWpw
+
 
 <b>Potential Applications:</b>
 
