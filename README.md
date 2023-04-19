@@ -13,9 +13,10 @@ The code can be broken down into the following sections:
 - Plotting the results: The code generates two plots using ggplot2 - one with error bars and one without. These plots display the relationships between outbreak impact (C), risk trajectory and epidemic potential (A and B), and preparedness (D).
 
 
+
 <b>Potential Applications:</b>
 
--Prioritizing resources: Risk ranking allows public health authorities to prioritize resources and interventions for diseases with higher risk and impact.
+- Prioritizing resources: Risk ranking allows public health authorities to prioritize resources and interventions for diseases with higher risk and impact.
 
 - Identifying vulnerable areas: Risk ranking can highlight areas where preparedness and countermeasures are lacking, enabling targeted improvements in those areas.
 
